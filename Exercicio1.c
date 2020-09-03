@@ -3,10 +3,12 @@
 
 //Exercicio 1- Faça um programa que receba dois números e exiba o resultado da sua soma.
 
-main()
-{
+int main()
+{ 
 
      int num1=0,num2=0,soma=0;
+
+
 
      num1=5;
      num2=10;
@@ -14,7 +16,7 @@ main()
 
      printf("O resultado da soma e %d\n",soma);
 
-     system("pause");
+     //system("pause");
 
 
 

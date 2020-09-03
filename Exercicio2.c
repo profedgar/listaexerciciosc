@@ -5,7 +5,7 @@
 
 //Exercicio 1- Faça um programa que receba dois números e exiba o resultado da sua soma.
 
-main()
+int main()
 {
  
      int num1=0,num2=0,soma=0,multiplicacao=0,subtracao=0;
@@ -22,21 +22,6 @@ num2=5;
       printf("a multiplicacao e %d \n",multiplicacao);
        printf("a subtracao e %d \n",subtracao);
         printf("a divisao  e %.2f \n",divisao); 
-
-
-
-
-
-
-
-
-
-
-   
-
+  
      system("pause");
-
-
-
-
 }
